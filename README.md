@@ -12,5 +12,4 @@ Micro Services Operating System
 * API based OS
 * Secured OS as the OS can be managed only remotely through APIs
 * Small footprint OS (<100 MB)
- 
-
+* Unikernel approach (http://unikernel.org)
